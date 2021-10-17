@@ -59,7 +59,7 @@
                             <include>**/*</include>
                         </includes>
                         <merge>true</merge>
-                        <repositoryName><em>maven-repo-demo</em>></repositoryName>
+                        <repositoryName><em>mvn-repo-demo</em>></repositoryName>
                         <repositoryOwner><em>Fiordy</em>></repositoryOwner>
                         <server>github</server>
                     </configuration>
